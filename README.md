@@ -5,7 +5,7 @@ If you are holding a an object in hand, please do make  movements with it near t
 I have taken help from various online blogs and youtube channels.
 To reproduce this code,  please fork and clone this repo to get started!
 
-## Dependancies
+## Dependencies
 
 We require openCV for this.
 The major dependancies are mentioned [here](https://docs.opencv.org/3.4.1/d2/de6/tutorial_py_setup_in_ubuntu.html)
