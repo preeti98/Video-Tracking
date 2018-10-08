@@ -69,5 +69,5 @@ cmake ../
  Your dependancies may be installed with ```Python 3.6.5 :: Anaconda, Inc.``` , but still run with python 2. It does not matter.
 
  ```
- python2 project.py
+python2 project.py
  ```
